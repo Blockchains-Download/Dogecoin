@@ -1,5 +1,5 @@
 # Download the Dogecoin blockchain
 
-You can download the Dogecoin blockchain for use with Dogecoin and Dogecoin Portable. Details here:
+Download the Dogecoin blockchain for Dogecoin Core Portable and local Dogecoin Core installs. Details here:
 
 [https://blockchains.download/dogecoin/](https://blockchains.download/dogecoin/)
